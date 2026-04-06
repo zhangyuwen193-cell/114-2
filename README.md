@@ -13,6 +13,8 @@
 -[HW1 Part2](https://github.com/zhangyuwen193-cell/114-2-Programing-Language/blob/main/%E3%80%8C%E3%80%8CHW1_%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4_Gradio_ipynb%E3%80%8D_ipynb%E3%80%8D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)作業
 ### 作業二
 -[HW2 Part1](https://github.com/zhangyuwen193-cell/114-2-Programing-Language/blob/main/hw2_.ipynb)作業
+
+-[HW2 Part2]([https://github.com/zhangyuwen193-cell/114-2-Programing-Language/blob/main/hw2_.ipynb](https://github.com/zhangyuwen193-cell/114-2-Programing-Language/blob/main/Untitled4.ipynb))作業
 ### 作業三
 ### 作業四
 ##  專題連結區
