@@ -31,5 +31,5 @@
 ### 作業四
 -[HW4](https://github.com/zhangyuwen193-cell/114-2-Programing-Language/blob/main/HW4.ipynb)作業
 
--[HW4]([https://github.com/zhangyuwen193-cell/114-2-Programing-Language/blob/main/HW4.ipynb](https://youtu.be/l8c2en2Os_4))影片
+-[HW4](https://youtu.be/l8c2en2Os_4)影片
 ##  專題連結區
